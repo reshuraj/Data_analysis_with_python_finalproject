@@ -1,1 +1,1 @@
-# Data_analysis_with_python_finalproject
+Final project assosiated with the course Data Analysis with Python by Coursera
